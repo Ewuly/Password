@@ -2,6 +2,9 @@
 
 Ce projet est un gestionnaire de mots de passe complet avec un backend Node.js et un frontend React. Il permet aux utilisateurs d'ajouter, modifier et supprimer des mots de passe en toute sécurité.
 
+![image](https://github.com/user-attachments/assets/05f32756-f165-42fe-9479-de06a010d426)
+
+
 ## Technologies Utilisées
 
 ### Backend
