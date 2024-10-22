@@ -1,6 +1,6 @@
 # Gestionnaire de Mots de Passe
 
-Ce projet est un gestionnaire de mots de passe complet avec un backend Node.js et un frontend React. Il permet aux utilisateurs de stocker, récupérer, modifier et supprimer des mots de passe en toute sécurité.
+Ce projet est un gestionnaire de mots de passe complet avec un backend Node.js et un frontend React. Il permet aux utilisateurs d'ajouter, modifier et supprimer des mots de passe en toute sécurité.
 
 ## Technologies Utilisées
 
@@ -48,7 +48,7 @@ Le projet est divisé en deux parties principales :
 1. Clonez ce dépôt :
    ```
    https://github.com/Ewuly/Password.git
-   cd password-manager
+   cd Password
    ```
 
 2. Installez les dépendances du backend :
