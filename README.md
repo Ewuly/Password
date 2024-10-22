@@ -30,12 +30,12 @@ Le projet est divisé en deux parties principales :
 
 1. Clonez ce dépôt :
    ```
-   git clone https://github.com/Ewuly/password-manager.git
+   git clone https://github.com/Ewuly/Password.git
    ```
    
 2. Allez dans le dossier :
    ```
-   cd password-manager
+   cd Password
    ```
    
 3. Lancez l'application avec Docker Compose :
