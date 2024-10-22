@@ -47,7 +47,7 @@ Le projet est divisé en deux parties principales :
 
 1. Clonez ce dépôt :
    ```
-   git clone https://github.com/Ewuly/password-manager.git
+   https://github.com/Ewuly/Password.git
    cd password-manager
    ```
 
