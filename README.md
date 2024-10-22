@@ -83,7 +83,7 @@ Le projet est divisé en deux parties principales :
 1. Démarrez le serveur backend :
    ```
    cd password-manager-backend
-   npm start
+   node server.js
    ```
 
 2. Dans un nouveau terminal, démarrez l'application frontend :
@@ -108,7 +108,3 @@ L'application sera accessible à l'adresse `http://localhost:3000`.
 ## Contribution
 
 Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à soumettre une pull request.
-
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
